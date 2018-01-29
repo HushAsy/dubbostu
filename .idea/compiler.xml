@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="api" />
         <module name="consumer" />
+        <module name="loaderclass" />
         <module name="provider" />
         <module name="schema" />
       </profile>
@@ -16,6 +17,7 @@
       <module name="api" target="1.5" />
       <module name="consumer" target="1.5" />
       <module name="dubbostu" target="1.5" />
+      <module name="loaderclass" target="1.8" />
       <module name="provider" target="1.5" />
       <module name="schema" target="1.5" />
     </bytecodeTargetLevel>
